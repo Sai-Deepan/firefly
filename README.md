@@ -2,9 +2,9 @@ Firefly — Advanced Disaster Detection & Evacuation System
 
 Firefly is designed to detect emergencies in real time, navigate people to safe exits, manage crowd flow, and assist emergency services during disasters.
 
-⸻
+---
 
-Overview
+## Overview
 
 Firefly provides a unified solution for emergency management, integrating:
 	•	Real-time hazard detection via IoT sensors
@@ -14,9 +14,9 @@ Firefly provides a unified solution for emergency management, integrating:
 
 This system ensures faster, safer evacuations, reduces human error during crises, and empowers responders with actionable insights.
 
-⸻
+---
 
-Problem Statement
+## Problem Statement
 
 Traditional emergency systems face challenges:
 	•	Delayed hazard detection
@@ -26,14 +26,14 @@ Traditional emergency systems face challenges:
 
 Firefly addresses these challenges by delivering a proactive, automated, and intelligent disaster management platform.
 
-⸻
+---
 ## Mind-Map
 
 <img width="1441" height="1023" alt="image" src="https://github.com/user-attachments/assets/f5cf0c39-8dcf-4bce-b0ad-141b029d3298" />
-⸻
+---
 
 
-Key Use Cases
+## Key Use Cases
 
 Use Case	Description
 Building Evacuations	Calculates and displays optimal exit routes during emergencies.
@@ -42,8 +42,7 @@ Multi-Hazard Detection	Detects earthquakes, floods, fires, gas/chemical leaks, a
 Emergency Response	Provides responders with real-time location and hazard data.
 
 
-⸻
-
+---
 Features
 	•	Real-Time Emergency Detection — Continuous monitoring using IoT sensors.
 	•	Optimal Evacuation Routing — Calculates nearest safe exits dynamically.
@@ -51,9 +50,9 @@ Features
 	•	Emergency Service Integration — Provides live situational data to first responders.
 	•	Alerts & Notifications — Push notifications, SMS alerts, and dashboard updates.
 
-⸻
+---
 
-Architecture
+## Architecture
 
 High-Level Flow:
 
@@ -68,9 +67,9 @@ Components:
 Suggested Diagram:
 
 
-⸻
+---
 
-Technology Stack
+## Technology Stack
 	•	Hardware: IoT sensors, Raspberry Pi, Arduino
 	•	Backend: Python, Node.js
 	•	Frontend: React / React Native
@@ -79,9 +78,9 @@ Technology Stack
 	•	Integration: REST APIs, SMS / Push notifications
 	•	Deployment: Docker, Kubernetes
 
-⸻
+---
 
-Getting Started
+## Getting Started
 
 Prerequisites
 	•	Python 3.11+
@@ -108,7 +107,7 @@ npm start
 ```
 Connecting Sensors: Connect your IoT sensors to the backend to enable real-time hazard detection. The system automatically calculates evacuation routes and notifies users and responders.
 
-⸻
+---
 
 Usage Example
 
@@ -125,7 +124,7 @@ route = system.calculate_route(current_location="Room 101")
 print("Evacuation route:", route)
 
 
-⸻
+---
 
 Visual Guides
 
@@ -137,9 +136,9 @@ Crowd Management Illustration:
 	•	Routes dynamically adjust to prevent congestion
 	•	Emergency services receive live updates
 
-⸻
+---
 
-Contributing
+## Contribution
 
 We welcome contributions to improve Firefly:
 	1.	Fork the repository
@@ -148,12 +147,12 @@ We welcome contributions to improve Firefly:
 	4.	Push: git push origin feature-name
 	5.	Open a Pull Request
 
-⸻
+---
 
-License
+## License
 
 Firefly is an officially licensed product. See LICENSE for details.
 
-⸻
+---
 
 Firefly — enabling safer, faster evacuations, and saving lives.
