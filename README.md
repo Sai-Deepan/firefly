@@ -27,8 +27,9 @@ Traditional emergency systems face challenges:
 Firefly addresses these challenges by delivering a proactive, automated, and intelligent disaster management platform.
 
 ⸻
-<img width="1441" height="1023" alt="image" src="https://github.com/user-attachments/assets/f5cf0c39-8dcf-4bce-b0ad-141b029d3298" />
+## Mind-Map
 
+<img width="1441" height="1023" alt="image" src="https://github.com/user-attachments/assets/f5cf0c39-8dcf-4bce-b0ad-141b029d3298" />
 ⸻
 
 
