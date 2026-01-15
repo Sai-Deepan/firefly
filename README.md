@@ -95,13 +95,13 @@ git clone https://github.com/Sai-Deepan/firefly
 cd firefly
 ```
 Backend Setup:
-```
+```bash
 cd backend
 pip install -r requirements.txt
 python app.py
 ```
 Frontend Setup:
-```
+```bash
 cd frontend
 npm install
 npm start
