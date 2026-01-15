@@ -90,22 +90,22 @@ Prerequisites
 	•	Connected IoT sensors
 
 Installation
-
+```bash
 git clone https://github.com/Sai-Deepan/firefly
 cd firefly
-
+```
 Backend Setup:
-
+```
 cd backend
 pip install -r requirements.txt
 python app.py
-
+```
 Frontend Setup:
-
+```
 cd frontend
 npm install
 npm start
-
+```
 Connecting Sensors: Connect your IoT sensors to the backend to enable real-time hazard detection. The system automatically calculates evacuation routes and notifies users and responders.
 
 ⸻
